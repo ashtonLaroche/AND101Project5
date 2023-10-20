@@ -40,6 +40,8 @@ My chosen API for this project is **NASA's Mars Rover Photos**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+**My app worked earlier this evening but didn't work at the time of the recording because the NASA API service is down at the moment. It's supposed to show a random mars rover photo and display the sol (martian day) it was captured on and the Earth date**
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5041df60c73f42e399998042405c7e02?sid=b80ccb01-a9f5-4028-839a-3fb717553864" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 GIF created with **loom**
